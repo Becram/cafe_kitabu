@@ -1,0 +1,182 @@
+# Copyright (C) 2016 Motohiro Sunouchi (43d)
+# This file is distributed under the MIT License.
+msgid ""
+msgstr ""
+"Project-Id-Version: 43d records 0.9.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/43d-records_dev\n"
+"POT-Creation-Date: 2016-09-13 09:58:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:10
+msgid "That page can not be found."
+msgstr ""
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: admin_inc/post.php:14
+msgid "Recorded Sound"
+msgstr ""
+
+#: admin_inc/post.php:27
+msgid "Set MP3 File"
+msgstr ""
+
+#: admin_inc/post.php:28 admin_inc/post.php:43
+msgid "Clear"
+msgstr ""
+
+#: admin_inc/post.php:42
+msgid "Set OGG File (option)"
+msgstr ""
+
+#: admin_inc/post.php:48
+msgid "Cover Image (Jpeg image as large as possible)"
+msgstr ""
+
+#: admin_inc/post.php:55
+msgid "Set Jpeg Image"
+msgstr ""
+
+#: admin_inc/post.php:58
+msgid "Delete Jpeg Image"
+msgstr ""
+
+#: admin_inc/post.php:67
+msgid "Date Recorded On"
+msgstr ""
+
+#: admin_inc/post.php:69
+msgid "Date (Month Day, Year)"
+msgstr ""
+
+#: admin_inc/post.php:74
+msgid "Time (Hours:Minutes)"
+msgstr ""
+
+#: admin_inc/post.php:80 index.php:189
+msgid "Equipments"
+msgstr ""
+
+#: admin_inc/post.php:89 index.php:161
+msgid "Location"
+msgstr ""
+
+#: admin_inc/post.php:92
+msgid "Latitude"
+msgstr ""
+
+#: admin_inc/post.php:97
+msgid "Longitude"
+msgstr ""
+
+#: comments.php:20
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:27 comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:29 comments.php:49
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:31 comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:220 index.php:146
+msgid "Posted On"
+msgstr ""
+
+#: index.php:150
+msgid "Recorded On"
+msgstr ""
+
+#: index.php:170 index.php:179
+msgid "SPECS"
+msgstr ""
+
+#: index.php:197
+msgid "Categories"
+msgstr ""
+
+#: index.php:205
+msgid "Tags"
+msgstr ""
+
+#: index.php:217
+msgid "Pages:"
+msgstr ""
+
+#: index.php:221
+msgid "Page"
+msgstr ""
+
+#: index.php:228
+msgid "<span>&laquo; Previous Entry</span> &ldquo;%title&rdquo;"
+msgstr ""
+
+#: index.php:229
+msgid "<span>&raquo; Next Entry</span> &ldquo;%title&rdquo;"
+msgstr ""
+
+#: index.php:260
+msgid "Recordings List"
+msgstr ""
+
+#: index.php:286
+msgid "&laquo; recent %d records"
+msgstr ""
+
+#: index.php:291
+msgid "past %d records &raquo;"
+msgstr ""
+
+#: index.php:296
+msgid "Static Pages"
+msgstr ""
+
+#: index.php:303
+msgid "categories"
+msgstr ""
+
+#: index.php:322
+msgid "tags"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "43d records"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://records.43d.jp/wp-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"43d records is a WordPress theme for publishing sounds and photographs for "
+"field recordings."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Motohiro Sunouchi (43d)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://about.me/snotch"
+msgstr ""
